@@ -85,4 +85,4 @@ vercel
 
 ## 📄 Licencia
 
-© 2025 Nexus AI. Todos los derechos reservados.
+© 2025 Nexus AI. Todos los derechos reservados.# Deploy fix
